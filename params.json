@@ -1,0 +1,6 @@
+{
+  "name": "Información",
+  "tagline": "",
+  "body": "### Bocetos\r\n\r\n\r\n### Persona\r\nAhorrarle tiempo al usuario visitar un lugar con estacionamiento de paga, (creando una manera rápida de pagar por su estadía en dicho estacionamiento.)\r\n\r\n### Diseño Visual\r\n![Log in](https://github.com/1. Log In.png)\r\n![Registro](https://github.com/2. Registro de cuenta.png)\r\n![Boleto](https://github.com/3. Leer boleto.png)\r\n![Pago](https://github.com/4. Elige forma de pago.png)\r\n![Tarjeta](https://github.com/5. Tarjeta.png)\r\n\r\n### Retroalimentación\r\nJose Carlos y Frida\r\nEs simple y va al punto.\r\nUsa las pestañas que el usuario necesita y no más.\r\nAgilizar el proceso, cuando entres a la aplicación, una vez ya registrado o ingresado 1 vez, que te mande directo a la sección de leer el código y pagar. Que con solo 2 botones puedas pagar tu ticket, que realmente sea más rápido. (PRIORIDAD 1)\r\n\r\n Miguel Miranda y Hermes\r\nAcceso directo al pago para que sea rápido. (PRIORIDAD 1)\r\nQue se realice cargo automático. (estacionamiento lea placa y registre cuando entre y salga y cobre a tu cuenta en automático) (Prioridad 3)\r\n\r\n",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
